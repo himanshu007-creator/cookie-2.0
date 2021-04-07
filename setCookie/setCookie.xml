@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+        <name>plg_content_setCookie</name>
+        <author>Himanshu</author>
+        <creationDate>April 05th, 2021</creationDate>
+        <copyright>Himanshu.inc</copyright>
+        <license>GNU General Public License</license>
+        <authorEmail>addyjeridiq@gmail.com</authorEmail>
+        <authorUrl>https://github.com/himanshu007-creator</authorUrl>
+        <version>1.0</version>
+        <description>Simple Set Cookie Plugin that Check "Cookie is set or not" at the beginning of every article.</description>
+        <files>
+                <filename plugin="setCookie">setcookie.php</filename>
+                <filename>index.html</filename>
+        </files>
+</extension>
