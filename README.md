@@ -5,7 +5,7 @@ If yes: it displays content of the cookie in a popup, together with some informa
 
 ## How to use it?
 - cole this repo 
-- Open Joomla and login to backend
+- login to backend (Joomla)
 - go to <code>system/install/extensions</code>
 - install the extension
 - go to <code>manage/plugins/setCookie</code>
