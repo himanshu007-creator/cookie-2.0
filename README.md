@@ -9,6 +9,5 @@ If yes: it displays content of the cookie in a popup, together with some informa
 - go to <code>system/install/extensions</code>
 - install the extension
 - go to <code>manage/plugins/setCookie</code>
-- configure it and save teh changes
-- visit your frontend and see the plogin in action✨
-
+- configure it and save the changes
+- visit your frontend and see the plugin in action✨
