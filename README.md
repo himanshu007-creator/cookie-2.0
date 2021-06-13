@@ -4,7 +4,7 @@ If no: Sets the cookie and write date and time (microseconds).
 If yes: it displays content of the cookie in a popup, together with some informative Text. 
 
 ## How to use it?
-- cole this repo 
+- clone this repo 
 - login to backend (Joomla)
 - go to <code>system/install/extensions</code>
 - install the extension
